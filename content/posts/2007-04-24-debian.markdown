@@ -1,0 +1,28 @@
+---
+author: astrophoenix
+comments: true
+date: 2007-04-24 04:21:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=12766
+slug: 12766
+title: debian
+wordpress_id: 12766
+categories:
+- Computer
+tags:
+- debian
+- entropy
+- firewall
+- linux
+- server
+---
+
+so debian etch is totally rocking.  
+  
+It was a fun experience just reading the installation manual. The manual was impressive, I've not seen a work which conveyed so much information in so little words. Let me explain what I mean by that; I, as an expert Linux user, found the directions extremely helpful, easy to follow, with just the right amount of hints along the way. However, a Linux newb would be hopelessly lost. almost every phrase in the manual evoked whole volumes of knowledge, which it was assumed, nay, required, that the reader already possessed. :) No wonder Debian has the reputation of being elitist!  
+  
+At the end of the directions, the manual stated I now had a running Debian system, albeit somewhat lean. I'll say! upon first boot, and logging in, I noticed the kernel was using about 5mb of ram for itself, and all running applications were taking up about 10mb! yep, only 15mb of ram for a full blown, non-embedded linux system. that was with a system logger and cron daemon running.  
+  
+Then I installed the things I planned to actually use the computer for: a caching DNS server (bind9), ssh daemon, and typical stuff like zsh, screen, and darcs. The darcs install went ahead and pulled in exim, an SMTP server.  
+  
+after I got screen going, with a couple zshs, and those other servers, ram usage ballooned all the way up to 22mb. :D Boy do I feel silly now, with the 1gb swap partition I created for this setup!

@@ -1,0 +1,17 @@
+---
+author: astrophoenix
+comments: true
+date: 2006-10-28 01:26:15+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=144
+slug: 144
+title: Leak
+wordpress_id: 144
+categories:
+- RX-8
+tags:
+- maintenance
+- rx8
+---
+
+had a persistent leak of some  sort. Turns out it was the transmission input seal (took two trips to the dealer to diagnose it though). seal replaced under warranty.

@@ -1,0 +1,14 @@
+---
+author: astrophoenix
+comments: true
+date: 2009-01-20 19:13:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=15794
+slug: 15794
+title: CVS and Subversion
+wordpress_id: 15794
+categories:
+- Computer
+---
+
+Let me start off by saying that CVS and Subversion are both outdated systems that no one in their right mind should use for a new project. (If you are starting a new project, I would recommend managing your source code with [Mercurial](http://www.selenic.com/mercurial/wiki/)).  Unfortunately, I have in the past been forced to use CVS, and I am now forced to use Subversion. I had hoped that Subversion would truly be an upgrade over CVS, since Subversion promises merge tracking.  What I have learned is that Subversion has about as many quirks as CVS, and of course they are different quirks. Today I want to talk about a big one I ran into.  The canonical way to handle branching in Subversion (svn) is to copy the entire module tree to a directory named for the branch. Then multiple commits can be done on the branch. if commits are done on trunk, and you want to get those changes on your branch, you can ask svn to _merge_ those changes onto your branch. svn records information about what commits were merged to the branch in svn properties, which are simply metadata attached to the files. svn uses the data stored in the properties to enable you to merge trunk into your branch at will, over and over again. so far so good, and this is an improvement over CVS, where you have to track the merge info manually (usually by lots of tagging and hoping everyone on the project knows what they are doing; I used the alternative method of tracking CVS changes in mercurial, and doing merges in mercurial instead of CVS).  Eventually when you are ready to merge the branch back to trunk, you run svn merge with the --reintegrate flag, and svn then knows how to handle the stuff that was already merged to the branch.  The first time I tried this though, I was confronted with a gnarly error message:  svn: Cannot reintegrate from 'url://feature-branch' yet: Some revisions have been merged under it that have not been merged into the reintegration target; merge them first, then retry.  eh? this was right after I had merged everything from trunk onto the branch again! Where were these mysterious unmerged revisions coming from? This was pretty scary, I thought I was doing everything right, yet it seemed I obviously must not understand svn at all yet.  google of course turned up [The Answer](http://blogs.open.collab.net/svn/2008/07/subversion-merg.html). I had carelessly renamed a file on the branch, creating spurious mergeinfo as a side effect; silly me! I had to delete the svn:mergeinfo property on the new file, then svn "graciously" allowed me to merge my branch to trunk. Subversion is indeed a truly awe-inspiring and confidence-building tool!

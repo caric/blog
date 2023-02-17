@@ -1,0 +1,17 @@
+---
+author: astrophoenix
+comments: true
+date: 2010-12-11 01:51:01+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=171
+slug: 171
+title: Steering
+wordpress_id: 171
+categories:
+- RX-8
+tags:
+- maintenance
+- rx8
+---
+
+Power steering quit today. The steering warning light on the dash came on.

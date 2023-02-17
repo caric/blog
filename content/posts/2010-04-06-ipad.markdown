@@ -1,0 +1,53 @@
+---
+author: astrophoenix
+comments: true
+date: 2010-04-06 04:55:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=17814
+slug: 17814
+title: iPad
+wordpress_id: 17814
+categories:
+- Computer
+tags:
+- apple
+- ipad
+---
+
+My experience with the iPad was surprising. Some of the things I expected to not care about turned out to be impressive, and some features I was excited about wound up as letdowns.  
+  
+Enough generalities, let me get down to details.  
+  
+First, I was prepared for heft after reading many comments castigating the mass of the iPad. I found the iPad to be just right! For its size, I think its weight speaks of solidity and perhaps even quality. I spent most of the hour holding it in my left hand and never once thought it was too heavy.  
+  
+When it came to responsiveness, the iPad was just as fast as everyone says.  
+  
+One of the huge things I was interested in trying was typing, so I immediately logged in to my gmail account in safari and started typing an email. No, I couldn't touch-type on it, especially since it's a qwerty layout and I can only touch-type dvorak, but, with one hand or two I could very easily utilize the first two fingers of each hand as well as my thumbs. I can type FAST on my iPhone, but I can type probably twice as fast on the iPad; still not as fast as when I'm touch-typing on a standard keyboard, of course.  
+  
+An interesting observation I made was that typing in landscape mode felt natural, confident, and kind of fun, but typing in portrait mode felt weird and even a bit nervous. Thinking about it later, it may be related to an observation I've seen in other reviews: in landscape mode, I could see the keys my fingers were hitting and the resulting letter popping onto the screen at the same time. in portrait mode, I had to look at my fingers alone. I don't know for sure if that was the issue, but the difference between the two modes was striking and unmistakeable.  
+  
+Yes, the photo app is cool, and I'd love showing photos off to people in it, but in the end it's basically iphoto without the editing, with a few neat gestures instead. Pinching open an album is cool, but not particularly a killer feature. I do like the whole idea of faces, places, and events, and I'm slowly trying to make use of them. From now on, every single time I import photos from my camera or iphone, I'm going to try to put that info in every single photo. and when I feel like it, I've been going back to older photos and adding them. I've wanted that kind of info in my photos for as long as I've had a digital camera, but never had a good platform for making use of it.  
+  
+Numbers, the spreadsheet program from iWork, was not what I'd hoped. It feels cumbersome, even painful, to enter formulas. There's a definite paradigm shear between using a spreadsheet with a mouse and using touch, and I'm the first to admit it will take some time to make the leap.  
+  
+I suspect Numbers' best use-case is to create a spreadsheet on the desktop, then look at it on, or present it from, the iPad, and being able to tweak a cell or two. coupled with the fact that iwork will pretty much export only to PDF, well, my beloved spreadsheets may not find their way into the roach motel known as Numbers after all. By roach motel, I don't mean Numbers is infested with bugs; rather, that data can come in, but not go back out; cardinal sin!  
+  
+The thing I was most excited about on the iPad was iBooks. wouldn't it be great to do away with all the shelves and boxes full of books in my office? to move my whole library as easily as moving my iPad and my macbook pro?  
+  
+For that reality to come to pass, the iPad has to be just as easy and nice as reading a book.   
+  
+Well, it's almost as nice. except for the fact that all text is right-justified, and there is no hyphenation. On top of that, absolutely gorgeous fonts are employed, but they might as well be monospaced. there is no kerning or ligature use at all. Think about it; each individual character looks absolutely gorgeous, but then they are laid out on the screen with no improvement over some crappy-ass computer word processor program from 1995. If you have no idea what I'm talking about, pick up a real book sometime. look at the spacing between words. you will see no annoying large gaps, no places where there are, say, about 5 words spaced all the way across the line with miles of white space in between. you will see the characters within the words spaced just right. so much so, that some letters will be touching! look at a lowercase "f" followed by a lowercase "L", for example. You'll see they actually overlap; this is called a ligature. you won't see this on the iPad. unless, of course, I'm just a clueless newb, and there is some option somewhere labelled "make the text look like ass" which is on by default. But I highly doubt it, that's not how Apple rolls. Which is why it's so shocking they didn't get all this right!  
+  
+I've tried to read an ebook on a laptop before, an ebook which had all the fancy typography a book had, and it was not fun. the keyboard kept getting in the way of the screen. The best way I could find was to lay the laptop on its side, so it looked like an open book standing up. then it was hard to change pages. This is why I was so optimistic about iBooks on the iPad. Perfect form factor. It's too bad the text looks so terrible.  
+  
+The kindle app is available for iPad, too, but the demo unit I was playing with didn't have it installed. From looking at pictures on the web, kindle uses the same standard text display engine.  
+  
+There is a free reader, for iPhone, called "Stanza", which has hyphenation, and even a bit of ligature and kerning use. I'm interested to know how they did it; it makes me wonder if they did their own custom font rendering. Stanza's rendering is not perfect; sometimes annoyingly large whitespaces show up, but it's much better than iBooks'.  
+  
+I suspect to get the kind of text display I'm wanting, apple would either have to turn all the book pages into photographs (hard to scale) or create a brand new typography rendering engine. It would rock if they could leverage TeX! Sidebar, for those of you who don't know: TeX is a free computer typesetting system invented thirty years ago by Donald Knuth, one of the giants of computer science, because he was dissatisfied with the way his math books looked from the publisher. I don't know if the license is compatible, but it would be a joy if Apple was able to use TeX, or created their own rendering engine that worked well.  
+  
+Instead, though, Apple is using their standard computer screen text renderer for books. yuck. I suppose it will be fine for reading stuff from Project Gutenberg, but I don't see myself converting my current and future library over, like I was hoping.  
+  
+While I was disappointed in iBooks, other apps written for ipad were just stunning. all those extra pixels make a huge difference. I found many instances where data was displayed wonderfully and was easy to interact with.  
+  
+In the end, I think I'll want to buy an ipad because of all those other apps besides iBooks. iPad delivers on the promise of the iPhone; having the internet and dozens of custom apps important to you (out of many tens of thousands available) readily available, in an even more convenient and useable way than on the iPhone.

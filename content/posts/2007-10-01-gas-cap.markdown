@@ -1,0 +1,19 @@
+---
+author: astrophoenix
+comments: true
+date: 2007-10-01 01:29:38+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=148
+slug: 148
+title: Gas cap
+wordpress_id: 148
+categories:
+- RX-8
+tags:
+- maintenance
+- rx8
+---
+
+Replaced the gas cap. the seal wears out after a while and starts causing the check engine light to come on.
+
+It was only $16 online from the sponsors of [rx8club.com](http://rx8club.com)

@@ -1,0 +1,28 @@
+---
+author: astrophoenix
+comments: true
+date: 2007-11-10 02:40:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=12869
+slug: 12869
+title: gutsy
+wordpress_id: 12869
+categories:
+- Computer
+---
+
+upon reading that the newest ubuntu release, gutsy gibbon, had support in the installer for encrypted partitions, I decided it was time to do an install from scratch on my workstation, Jupiter.  
+  
+Jupiter was running fiesty fawn, and the whole disk was encrypted, but I practically had to roll my own initial ramdisk to get it set up, and I doubted that would make it through a dist-upgrade to gutsy without some serious intervention.  
+  
+so I started the iso download of the "altenate" kubuntu cd, and started a backup going of /root, /etc, and /home. I needed the alternate cd because that was the one with LVM and crypto support.  
+  
+install was easy of course. the boot splash screen welcomed me with a nice friendly passphrase prompt. all hardware was working upon boot.  
+  
+started the restore going with the default account I had created, and started installing all the little odds and ends, like dockapps, mercurial, build-essential, etc.  
+  
+copied my whole itunes library over from my ibook, and fired up amarok. it remembered all my playlists and stuff from before. hit play, and a dialog popped up saying it couldn't play mps. oh ya, damn patents. but there was also a button on that dialog to install mp3 support. so I pressed it, it prompted for my login password, then fired up adept, and about 10 seconds later told me mp3 support was installed, and that I needed to restart amarok. so I did that, and the music worked.  
+  
+I still have to check in to videos and flash and the nvidia driver. for the nvidia driver, there's a new "restricted drivers" manager which I'm hoping will prove to be pretty easy.  
+  
+and I have 3 dockapps I've customized that I need to install in /usr/local still. but all in all, this has been a pretty easy install.

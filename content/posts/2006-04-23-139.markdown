@@ -1,0 +1,23 @@
+---
+author: astrophoenix
+comments: true
+date: 2006-04-23 01:19:37+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=139
+slug: 139
+title: Spark Plugs
+wordpress_id: 139
+categories:
+- RX-8
+tags:
+- maintenance
+- rx8
+---
+
+Replaced all four spark plugs myself. got a 12" ratchet extension for this job, as well a 5/8" spark plug socket and some anti-seize.
+
+Simplest way to do it is take off the driver's side front wheel.
+
+[Best known price for the RX-8 spark plugs](http://www.sparkplugs.com/results_app.asp?productTypeID=1&AAIA=1416844)
+
+[Thread about changing the spark plugs](http://www.rx8club.com/showthread.php?t=31872)

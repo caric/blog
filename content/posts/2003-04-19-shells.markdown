@@ -1,0 +1,20 @@
+---
+author: astrophoenix
+comments: true
+date: 2003-04-19 05:51:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=4210
+slug: 4210
+title: shells
+wordpress_id: 4210
+categories:
+- Computer
+---
+
+so I just dropped tcsh in favor of zsh. I'd been thinking of doing it for a long time, mainly because I knew that zsh's command line vi mode is much better than tcsh's. the '.' for repeating your last command works, the cut buffer works (so the classic 'xp' for transposing characters works), and you can even use 'marks' in your history.  
+  
+But I haven't even looked into all the completions that zsh is famous for, and I've already found lots of nice features tcsh didn't have.  
+  
+there is a user-friendly user's manual to be found at http://www.zsh.org under the web mirrors. it's unbelievably long, packed full of info.  
+  
+since i was overhauling all my settings anyway, I even added colors to my prompt.

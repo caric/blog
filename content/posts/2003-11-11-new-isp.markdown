@@ -1,0 +1,20 @@
+---
+author: astrophoenix
+comments: true
+date: 2003-11-11 22:32:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=6627
+slug: 6627
+title: New ISP
+wordpress_id: 6627
+categories:
+- Computer
+---
+
+I've just started using mediacom's cable modem service. Sprint Broadband has been quite slow for the past few months, and are taking on no new customers. I could see the writing on the wall.  
+  
+So far, so good. mediacom is definitely faster.  
+  
+The DNS change seems to have propagated much quicker than expected. Only around 4 hours for me to see the change, and for email to start arriving at desertsol.com again.  
+  
+Now here's hoping my IP address doesn't change often.

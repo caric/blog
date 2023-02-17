@@ -1,0 +1,14 @@
+---
+author: astrophoenix
+comments: true
+date: 2002-10-12 15:22:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=3335
+slug: 3335
+title: new stuff
+wordpress_id: 3335
+categories:
+- Computer
+---
+
+I have an excuse this time for not updating in so long: my wife got tired of me using her laptop and got me one! So I've been quite consumed [installing Linux](http://www.desertsol.com/~kevin/ppc) on it and setting up Mac OS X.

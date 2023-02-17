@@ -1,0 +1,14 @@
+---
+author: astrophoenix
+comments: true
+date: 2006-08-09 00:36:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=10068
+slug: 10068
+title: power
+wordpress_id: 10068
+categories:
+- Computer
+---
+
+in the last few years, I've not had a power outage last more than a second. but that second wreaks havoc with the kvm switch, and also Raven (AMD Athlon Thunderbird 1.33GHz, server) tends not to boot after a power outage because of the kvm being weird. so a 1 second (or less) power loss usually results in nearly an hour of unplugging and replugging kvm cables to get the kvm going again.  so enough was enough.  there are now 3 Uninterruptible Power Supplies (UPSes) in the computorium.  It started out as one. I got a Tripplite OMNI1000LCD from costco for ~$90. this was a great deal, because the same one was at Fry's for $150. the Tripplite says it can provide 500 W of power.  Then I plugged 4 computers, an ethernet switch, and my gigantic 22" crt into it. the manual reports that running the self test will tell you if the battery is overloaded or not. The test passed without complaint. I thought I was done.  a few days later, in the afternoon, it turned off, taking down all the computers with it. that was odd. turned it back on, everything was fine. then a day or two later, I was awakened in the middle of the night to the UPS squealing. I couldn't get it to come back on. finally, after leaving just the bare necessities plugged in (2 computers, ethernet, and cablemodem) I got it all to boot and tried to go back to bed.  later, I moved entropy (firewall, 90 MHz pentium) and the cablemodem to another outlet in another corner of the room. I had gotten a long kvm cable from dad, this was the perfect time to use it. still need to get an adaptor for the vga, but the mouse and keyboard ports work which is enough to boot it.  Went to Fry's, got a 300W APC UPS for between $50 and $60, and also a small generic ups for just over $20.  the APC is for entropy and the cablemodem. the small one runs the wireless base station.  now the Tripplite UPS only has to power Raven, the ethernet switch, ethernet hub, and kvm switch.  if the power goes out for more than a second or two, the wireless ethernet will allow us to log in from our laptops to shut the machines down. someday I'll try to get the APC plugged into raven via usb, but I'll need a long cord for that. I'm sure [the NUT](http://www.networkupstools.org/) project probably supports it. (The Tripplite UPS which is right next to raven is unfortunately not supported yet).  If I could get any one of the UPSes to talk to any one of my computers, I could get them to all shutdown automatically. probably that will be a rare occurrence anyway, so I'm not going to worry about it for now.

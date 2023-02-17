@@ -1,0 +1,18 @@
+---
+author: astrophoenix
+comments: true
+date: 2008-07-20 21:54:09+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=19189
+slug: 19189
+title: Luggage
+wordpress_id: 19189
+categories:
+- motorcycle
+- ninja
+tags:
+- mods
+- ninja
+---
+
+got some straps and a backpack so I have some makeshift luggage. the cortech luggage I really want is on backorder, but I needed something for now, so I followed a [suggestion](http://www.ninja650.com/phpbb/viewtopic.php?p=90822) I found online.

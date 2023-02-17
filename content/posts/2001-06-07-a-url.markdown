@@ -1,0 +1,14 @@
+---
+author: astrophoenix
+comments: true
+date: 2001-06-07 18:32:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=682
+slug: 682
+title: a url
+wordpress_id: 682
+categories:
+- Computer
+---
+
+here's a url: [the perl script I'm using to post this with](http://www.cis.rit.edu/~jerry/Software/perl/#jlj)

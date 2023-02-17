@@ -1,0 +1,22 @@
+---
+author: astrophoenix
+comments: true
+date: 2005-02-26 20:08:28+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=95
+slug: 95
+title: Engine
+wordpress_id: 95
+categories:
+- RX-8
+tags:
+- engine
+- rx8
+---
+
+Pictures of the engine.
+
+[![alternator, strut tower bar, belts, intake](/blog/wp-uploads/astrophoenix/2010/12/IMG_2823_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_2823_compressed.jpg)
+[![13B, Mazda engine block stamping](/blog/wp-uploads/astrophoenix/2010/12/IMG_2827_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_2827_compressed.jpg)
+[![](/blog/wp-uploads/astrophoenix/2010/12/IMG_2828_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_2828_compressed.jpg)
+[![](/blog/wp-uploads/astrophoenix/2010/12/IMG_2829_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_2829_compressed.jpg)

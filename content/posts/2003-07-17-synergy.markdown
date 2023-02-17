@@ -1,0 +1,16 @@
+---
+author: astrophoenix
+comments: true
+date: 2003-07-17 00:57:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=5649
+slug: 5649
+title: synergy
+wordpress_id: 5649
+categories:
+- Computer
+---
+
+[synergy](http://synergy2.sourceforge.net/) is a great app! When you have multiple computers and they each have their own monitor. It's even cross-platform, so I use it at work. My main machine is for development and runs gentoo linux. I also have a windows 2000 machine for outlook and project central. Synergy allows my to cut and past between the two machines, and use my linux machine's keyboard and mouse to control both machines.
+
+ Today I have my laptop here too, and so I'm using one keyboard and mouse to control three machines and three monitors.

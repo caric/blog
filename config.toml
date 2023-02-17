@@ -1,0 +1,14 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Astrophoenix"
+theme = "ananke"
+SectionPagesMenu = "main"
+#Paginate = 
+[params]
+        favicon = "/kev.png"
+        twitter = "https://twitter.com/astrophoenix"
+        #github = ""
+        #gitlab = ""
+        recent_posts_number = 6
+        #body_classes = "bg-moon-gray dark-red"
+        #mode = "auto"

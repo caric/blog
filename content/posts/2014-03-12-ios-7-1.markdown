@@ -1,0 +1,26 @@
+---
+author: astrophoenix
+comments: true
+date: 2014-03-12 20:26:08+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=19409
+slug: 19409
+title: iOS 7.1
+wordpress_id: 19409
+categories:
+- Computer
+tags:
+- apple
+- iOS
+- iphone
+---
+
+With the 7.1 update, I'm much more comfortable with iOS 7. I no longer miss iOS 6. 
+
+The updated lock screen and phone apps are the best touches. I especially like the new effects when waking up or turning off the screen: a subtle, super-fast zoom in on wake and zoom out on sleep. 
+
+Making the transition animations shorter is also nice, everything feels snappier because of it. 
+
+The new calendar app looks nice but is still clunky from a usability perspective. The only usable view, to me, is the list view. The other views don't have enough detail to be useful. The landscape mode view is almost useful but scrolling is required; you can only see a small slice of each  day at once. The newly-restored month view with list at the bottom bears further investigation. 
+
+The notes app is still ugly.

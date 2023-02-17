@@ -1,0 +1,37 @@
+---
+author: astrophoenix
+comments: true
+date: 2001-06-08 22:52:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=909
+slug: 909
+title: mozilla
+wordpress_id: 909
+categories:
+- Computer
+---
+
+got the new mozilla working today (0.9.1) in linux. This release is a tremendous step forward! Renders html as fast as opera, but the result looks better.  I had trouble getting the java plugin to work at first, it turned out I had an rpm installed of an earlier milestone. Once I removed the old version, the new version worked fine.  Here's my resulting install process:  
+Download the newest binary ([here](http://ftp.mozilla.org/pub/mozilla/releases/mozilla0.9.1/mozilla-i686-pc-linux-gnu-0.9.1-sea.tar.gz)).  
+extract the tarball in /tmp.  
+as root:  
+cd /tmp/mozilla-installer  
+make sure all mozilla rpms are removed  
+run the installer: ./mozilla-installer  
+pick the ``install everything'' option (I used the default location /usr/local/mozilla)  
+cd /usr/local/mozilla  
+find . -type f | xargs chmod go+r  
+find . -type d | xargs chmod go+rx  
+next you need to set up some plugins. I re-used my shockwave (flash) plugin from netscape 4.77:  
+cd /usr/local/mozilla/plugins  
+ln -s /usr/local/netscape/plugins/libflashplayer.so .  
+ln -s /usr/local/netscape/plugins/ShockwaveFlash.class .  
+for java, you need to get and install the jre, I ended up with j2re-1_3_0_02-linux.bin (I think I got it from sun's java page)  
+ln -s /usr/local/jre1.3.0_02/plugin/i386/ns600/libjavaplugin_oji.so .  
+Now as a user, you need to set some environment variables (I use tcsh, you'll have to change the syntax if you use bash):  
+setenv MOZZILLA_HOME /usr/local/mozilla  
+setenv NPX_PLUGIN_PATH /usr/local/mozilla/plugins:/usr/local/jre1.3.0_02/plugin/i386  
+put those in your ~/.login file (or their equivalent in ~/.bash_profile) and you're ready to run:  
+cd /usr/local/mozilla  
+./mozilla  
+

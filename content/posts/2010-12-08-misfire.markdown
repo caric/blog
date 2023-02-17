@@ -1,0 +1,17 @@
+---
+author: astrophoenix
+comments: true
+date: 2010-12-08 01:54:09+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=177
+slug: 177
+title: Misfire?
+wordpress_id: 177
+categories:
+- RX-8
+tags:
+- maintenance
+- rx8
+---
+
+Going down the onramp onto US60, I was getting on it ... hit redline in first gear, shifted to second, continued at full throttle. Power dipped, the check engine light started flashing! I let off the throttle, and the check engine light stopped flashing. Seems to be running fine now; probably a misfire. It's time to replace the spark plugs anyway ...

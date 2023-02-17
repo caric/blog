@@ -1,0 +1,76 @@
+---
+author: astrophoenix
+comments: true
+date: 2005-10-07 20:33:36+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=109
+slug: 109
+title: New Tires
+wordpress_id: 109
+categories:
+- RX-8
+tags:
+- maintenance
+- rx8
+- tires
+---
+
+I put 32,111 miles on the tires which shipped with the car from the factory. They were Bridgestone Potenza A030s, the size was P225/45ZR18. These tires seemed to be too small for the wheels.
+
+The new tires are Kumho Ecsta SPTs, in size 245/40ZR18. These seem to fit much nicer, and look much better, plus I get an extra 20mm or so of tread width!
+
+The old tires had a treadwear rating of 140, the new ones have a treadwear rating of 320! somehow I doubt I'll get 71,339 miles out of them, but hopefully I'll get more than 30,000.
+
+The old tires had gotten VERY loud when driving at highway speeds. the first drive in the new tires was startling, there seemed to be no road noise whatsoever. All I could hear was the engine, and a very slight whisper of some wind. much nicer. And I haven't even driven on any rubberized sections of highway yet!
+
+In the little bit of performance testing I've been able to do, the sidewalls on the new tires seem to be less stiff than the old tires, but they feel grippier than the old tires. whereas before a snap of the wheel resulted in a razor sharp response, now it's more of a quick lunge (if that makes any sense).
+
+The only bad part of all this is that Discount Tire, where I bought the tires and had them installed, managed to break the tire pressure sensor in the driver's side front tire. They have ordered a replacement from Mazda, and are supposed to install it today.
+
+Fit on the wheel:
+
+[caption id="attachment_113" align="alignleft" width="225" caption="Stock tire: sidewall 4.0 in tall; diameter 26.0 in; circumference 81.6 in."][![too small](/blog/wp-uploads/astrophoenix/2005/10/tireIMG_0757_compressed-225x300.jpg)](/blog/wp-uploads/astrophoenix/2005/10/tireIMG_0757_compressed.jpg)[/caption]
+
+[caption id="attachment_114" align="alignleft" width="225" caption="New tire: sidewall 3.9 in tall; diameter 25.7 in; circumference is 80.8 in."][![just right](/blog/wp-uploads/astrophoenix/2005/10/IMG_5240_compressed-225x300.jpg)](/blog/wp-uploads/astrophoenix/2005/10/IMG_5240_compressed.jpg)[/caption]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The small difference in size adds up to about a 1% difference to the speedometer. If the speedometer was dead accurate before, now it would be off by about .6mph at 60 mph (if the speedo said 60, I would actually be going 59.4 mph. I had already noticed an error of between 2 and 2.5 mph around 75 mph, so now it will be a little bit more. I'll have to check it with my gps.
+
+[caption id="attachment_127" align="alignleft" width="210" caption="old"][![old](/blog/wp-uploads/astrophoenix/2005/10/IMG_5220_sidebyside-300x225.jpg)](/blog/wp-uploads/astrophoenix/2005/10/IMG_5220_sidebyside.jpg)[/caption]
+
+[caption id="attachment_128" align="alignleft" width="210" caption="new"][![new](/blog/wp-uploads/astrophoenix/2005/10/IMG_5233_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2005/10/IMG_5233_compressed.jpg)[/caption]
+
+[caption id="attachment_129" align="alignleft" width="300" caption="old tread close up"][![old](/blog/wp-uploads/astrophoenix/2005/10/IMG_5224_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2005/10/IMG_5224_compressed.jpg)[/caption]
+
+[caption id="attachment_130" align="alignleft" width="225" caption="new tread close up"][![new tread, close up](/blog/wp-uploads/astrophoenix/2005/10/IMG_5235_compressed-225x300.jpg)](/blog/wp-uploads/astrophoenix/2005/10/IMG_5235_compressed.jpg)[/caption]
+
+[caption id="attachment_131" align="alignleft" width="210" caption="old tire, labelled with the tire size"][![P225/45ZR18](/blog/wp-uploads/astrophoenix/2005/10/IMG_5223_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2005/10/IMG_5223_compressed.jpg)[/caption]
+
+[caption id="attachment_132" align="alignleft" width="210" caption="new tire, labelled with the tire size"][![245/40ZR18](/blog/wp-uploads/astrophoenix/2005/10/IMG_5236_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2005/10/IMG_5236_compressed.jpg)[/caption]
+
+[caption id="attachment_133" align="alignleft" width="210" caption="old tire"][![old tire, sidewall at the bottom](/blog/wp-uploads/astrophoenix/2005/10/IMG_5222_compressed-300x159.jpg)](/blog/wp-uploads/astrophoenix/2005/10/IMG_5222_compressed.jpg)[/caption]
+
+[caption id="attachment_134" align="alignleft" width="210" caption="new tire"][![new tire](/blog/wp-uploads/astrophoenix/2005/10/IMG_5237_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2005/10/IMG_5237_compressed.jpg)[/caption]
+
+
+
+
+
+[caption id="attachment_135" align="alignleft" width="300" caption="new tires"][![new tires](/blog/wp-uploads/astrophoenix/2005/10/IMG_5241_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2005/10/IMG_5241_compressed.jpg)[/caption]

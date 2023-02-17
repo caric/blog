@@ -1,0 +1,18 @@
+---
+author: astrophoenix
+comments: true
+date: 2008-08-04 22:30:55+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=19214
+slug: 19214
+title: Errands
+wordpress_id: 19214
+categories:
+- motorcycle
+- ninja
+tags:
+- ninja
+- ride
+---
+
+went to the post office, and then to the grocery store to get some water.

@@ -1,0 +1,18 @@
+---
+author: astrophoenix
+comments: true
+date: 2008-07-01 22:38:24+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=19116
+slug: 19116
+title: Ride
+wordpress_id: 19116
+categories:
+- motorcycle
+- ninja
+tags:
+- ninja
+- ride
+---
+
+rode 19.3 miles today (bike is at 121). down 88 to needle vista and back again.

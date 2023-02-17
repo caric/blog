@@ -1,0 +1,18 @@
+---
+author: astrophoenix
+comments: true
+date: 2003-06-22 20:22:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=5110
+slug: 5110
+title: logs
+wordpress_id: 5110
+categories:
+- Computer
+---
+
+just switched all my systems to use metalog rather than syslog-ng for system logs. Once you take the time to read the metalog docs, it's much more straightforward than the other loggers I've used. 
+
+ plus it buffers all the output for 'high performance'. the only real benefit I hope to achieve from that is that perhaps my laptop hard drive will stay turned off longer. when you need to debug something, you can turn off the buffering with 'killall -USR1 metalog' and back on with 'killall -USR2 metalog'
+
+ anyway, [the metalog page](http://metalog.sourceforge.net/) and [my metalog.conf file](http://www.desertsol.com/~kevin/ppc/metalog.conf)

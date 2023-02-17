@@ -1,0 +1,44 @@
+---
+author: astrophoenix
+comments: true
+date: 2015-05-22 06:52:38+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=19455
+slug: 19455
+title: Watches
+wordpress_id: 19455
+tags:
+- watch
+---
+
+I got my first watch in Fifth grade: a used mechanical watch with spinning number wheels which didn't last but a few weeks. it drifted hours in a day and soon I was in the habit of taking it apart (one of the number wheels was loose and I'd hook it back on to get a few more hours use out of it).
+
+Next I went through a series of calculator watches, progressing in junior high through several "data bank" versions, into which I painstakingly typed the phone numbers of everyone I knew.
+
+I decided I should become proficient at reading an analog watch. I spent several years wearing watches with both hands and a digital display, culminating in a somewhat-fashionable Guess watch with analog hands and two(!) digital displays.
+
+Later, Brian gifted me a Swiss Army quartz analog watch which I ended up wearing for nearly ten years. This watch was by far the best timekeeper I'd had so far; it drifted only a second or two in the course of a month. This was the watch I finally learned to read analog on, and I also learned about esoteric watch quirks such as having to sync up the second hand with the minute hand, and the difference between noon and midnight and how it affected the date display.
+
+As a secondary watch, I also had a digital watch with an electronic compass, and even a Suunto Vector altimeter and compass watch.
+
+Finally I took the plunge back into mechanical watches, with the Invicta knockoff of the James Bond Rolex Submariner. Even with a drift of 10 seconds a day, I was hooked by this automatic.
+
+The feature I loved the most was the rotating bezel dive timer. I had a readily-accessible 60-minute timer and started using it routinely, for everything from timing my electric toothbrush, to laundry, to flipping meat on the grill.
+
+The Invicta, of course, has a budget movement, and non-hacking to boot (this means that when you pull out the crown to set the time, the second hand keeps moving! makes it challenging to get the minute hand pointed right at the minute when the second hand crosses the twelve!)
+
+Joy got me an excellent timepiece: the Tag Heuer Aquaracer Automatic Black Dial Chronograph. In addition to the rotating bezel, this watch has a true chronograph which can time up to twelve hours! The Tag is more accurate than the Invicta, typically gaining 3 or 4 seconds a day. In addition, its hacking movement (second hand stops when you pull out the crown) allows the time to be set much easier than the Invicta. The minute hand seems to have a bit of lash or slack in it; when you push the crown back in, the minute hand might not move for about 30 seconds or so. I quickly got good at putting the minute hand just a bit ahead, so within a minute or so after starting it again, the minute hand would end up pointing right at the minute when the second hand crossed the twelve.
+
+Here are my two automatics:
+
+[![](/blog/wp-uploads/astrophoenix/2015/05/IMG_0375.jpg)](/blog/wp-uploads/astrophoenix/2015/05/IMG_0375.jpg)
+
+
+
+Coincident with getting these automatics, I also had already gotten an iPhone. Now the early iPhones had atrocious timekeeping, and would often be 30 seconds or more off from the correct time. by the time the iPhone 4 was out, however, they were typically within half a second of the atomic clocks (as checked via the network time protocol, or NTP for short).
+
+My automatics had two issues. They didn't have numbers on the dials, only tick marks. This slowed me down just a bit; reading the time took a couple seconds instant of the bare instant it should. And, since they did drift from the correct time daily, I always had a small nagging feeling in the back of mind ... maybe I shouldn't trust the time on this watch.
+
+I formed an unconscious habit of using my watch as a timer, but using my phone to actually check the time. Yes I checked the time on my watch sometimes too, but mainly when I was in a hurry and knew generally what time it was. Like, say, I knew it was between 4:45 and 5:00, so I needed a quick glance to tell me a bit more precisely which side of that range it was closer to. In general, though, I was using my phone to tell me what time it was.
+
+When it came to our daily standup meetings (where you had to sing if you were even one second late to the meeting) I used an [IOS NTP client](http://www.emeraldsequoia.com/h/index.html) to get the real time to the second. hmmph.

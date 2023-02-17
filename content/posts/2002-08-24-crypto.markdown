@@ -1,0 +1,14 @@
+---
+author: astrophoenix
+comments: true
+date: 2002-08-24 03:03:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=2681
+slug: 2681
+title: crypto
+wordpress_id: 2681
+categories:
+- Computer
+---
+
+I really dig cryptography. It's quite a concept that I can scramble some data in such a way that if I got electrocuted tomorrow, no one would be able to read the data for at least a few decades (and that's assuming a fundamental mathematical breakthrough).  The main two algorithms I use to explicitly encrypt data are RC4 (in the form of my own [ciphersabers](http://ciphersaber.gurus.com)) and rijndael (AES) in the form of a kernel [loop back](http://loop-aes.sourceforge.net) device. The loop back device is quite handy; you create a virtual file system, mount it using the loopback device, and then create your files in it; the data is never stored in the clear. You can also use the loopback device to encrypt the virtual memory (swap) partition on your hard drive.  I am also a GPG user (get my key [here](http://www.desertsol.com/~kevin/keys.html)) and also use SSH and SSL. I probably use SSH more than anything; I'm always at the console of one computer but want to be typing on another. Or copying files over the network (rsync over ssh). Soon I'll be using IMAP over SSL to read my home email at work.

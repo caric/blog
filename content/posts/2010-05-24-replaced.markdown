@@ -1,0 +1,17 @@
+---
+author: astrophoenix
+comments: true
+date: 2010-05-24 16:26:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=18550
+slug: 18550
+title: replaced
+wordpress_id: 18550
+categories:
+- Computer
+tags:
+- apple
+- iphone
+---
+
+long story short, replacing just the screen wasn't sufficient. the home key was still activating spuriously. I went back to the apple store and they finally gave  me a new phone. I had only 22 days left on the warranty!

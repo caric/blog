@@ -1,0 +1,16 @@
+---
+author: astrophoenix
+comments: true
+date: 2003-07-26 17:43:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=6094
+slug: 6094
+title: reiser
+wordpress_id: 6094
+categories:
+- Computer
+---
+
+All partitions (except /boot) are now reiserfs on my ibook. I've seen a huge increase in performance for 'qpkg', and 'emerge'. qpkg is _faster_ than epm now!
+
+ Also, someone just created a patch for the ppc linux kernel so the touchpad can emulate a scrollwheel like in OS X.

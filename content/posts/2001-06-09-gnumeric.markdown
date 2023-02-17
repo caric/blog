@@ -1,0 +1,16 @@
+---
+author: astrophoenix
+comments: true
+date: 2001-06-09 23:31:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=1334
+slug: 1334
+title: gnumeric
+wordpress_id: 1334
+categories:
+- Computer
+---
+
+there is finally an rpm up for [gnumeric-0.65](http://www.gnome.org/projects/gnumeric) on [www.rpmfind.net](http://www.rpmfind.net). Getting it to install took several trips back to rpmfind to fill in newer or missing rpms. Beware! the liconv and libgal7 ximian rpms installed all their stuff in /opt/gnome instead of /usr like a sane rpm should. I made /opt be a symlink to /usr, and then symlinked the libraries in /usr/gnome back to /usr/lib.
+
+ My main spreadsheet program used to be the one from star office, but it was annoying to put up with star office's HUGE memory footprint just to get a spreadsheet. Gnumeric is much smaller and faster.

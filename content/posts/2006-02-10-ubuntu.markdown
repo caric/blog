@@ -1,0 +1,14 @@
+---
+author: astrophoenix
+comments: true
+date: 2006-02-10 06:25:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=8904
+slug: 8904
+title: ubuntu
+wordpress_id: 8904
+categories:
+- Computer
+---
+
+it seems like I won't be a Gentoo Linux user for much longer. My server (Gentoo Linux) has suffered a lot of problems lately. I think that Gentoo now has too many packages and too few developers. pretty much any update I've done in the last 6 months on any of the 6 or so computers I maintain has caused non-trivial problems. I've now changed my server, my work machine, and my desktop machine over to ubuntu. the only gentoo boxes I have left are my firewall, my backup server, and my dad's firewall. the backup server will be ubuntu within the next couple weeks.

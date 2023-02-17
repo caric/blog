@@ -1,0 +1,14 @@
+---
+author: astrophoenix
+comments: true
+date: 2006-10-27 04:22:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=11332
+slug: 11332
+title: edgy
+wordpress_id: 11332
+categories:
+- Computer
+---
+
+edgy eft was released today! (Ubuntu Linux version 6.10) my thinkpad is downloading about 996mb spread amongst 1500 new software packages right now as part of the dist-upgrade!  for the curious, [a photo of an eft](http://www.flickr.com/photos/michaelrighi/133766075/)

@@ -1,0 +1,23 @@
+---
+author: astrophoenix
+comments: true
+date: 2003-12-19 00:11:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=7132
+slug: 7132
+title: birthday
+wordpress_id: 7132
+categories:
+- Computer
+- screenshot
+tags:
+- kde
+---
+
+today is the anniversary of my birth.  The best part will be going to see the Zoo lights wife my wife and son.  The stable linux kernel 2.6.0 was released late last night, just in time. I installed it on most of my computers today.
+
+[caption id="attachment_19002" align="alignnone" width="300" caption="ocotillo running Linux kernel 2.6.0, and KDE desktop"][![KDE desktop showing slashdot announcement of Linux 2.6.0](/blog/wp-uploads/astrophoenix/2003/12/031218_kernel260bday-300x225.jpg)](/blog/wp-uploads/astrophoenix/2003/12/031218_kernel260bday.jpg)[/caption]
+
+I even have moderator access on slashdot today!  Can't get any better than this.
+
+

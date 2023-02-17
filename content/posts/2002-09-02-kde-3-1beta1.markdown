@@ -1,0 +1,14 @@
+---
+author: astrophoenix
+comments: true
+date: 2002-09-02 08:38:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=3287
+slug: 3287
+title: KDE 3.1beta1
+wordpress_id: 3287
+categories:
+- Computer
+---
+
+I'm trying out a new version of KDE. I try to dabble with different environments, just to see what they're like. I still haven't found anything to lure me away from [blackbox](http://blackboxwm.sourceforge.net/), but this new kde has come the closest yet.  First off, this is by far the fastest KDE I've seen! It feels an order of magnitude faster than KDE 3.0.3 was. Usually, KDE has been slow as a dog for me, but calling it 'snappy' now enters the realm of possibility.  I really dig the new theme, Keramik. The alpha-blended menus with drop shadows, all hardware accelerated (if you click the Xrender button) wowed me too.  If shopping for a new desktop you are, KDE recommend can I, as Yoda would say.  and of course I have a couple screenshots up at the usual [place](http://www.desertsol.com/~kevin/screens).

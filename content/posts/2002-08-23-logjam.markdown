@@ -1,0 +1,14 @@
+---
+author: astrophoenix
+comments: true
+date: 2002-08-23 04:26:00+00:00
+layout: post
+link: http://astrophoenix.com/blog/?p=1942
+slug: 1942
+title: logjam
+wordpress_id: 1942
+categories:
+- Computer
+---
+
+this entry is in logjam. After I followed the link from the livejournal page for gtk+ clients and saw the client was called logjam, I checked to see if gentoo had an ebuild for it with 'emerge -s logjam'. for some reason there were two, so I picked the newer one and installed it with 'emerge net-misc/logjam'. I'm amazed every day at [gentoo linux](http://www.gentoo.org)
