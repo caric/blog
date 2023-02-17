@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2005-04-09 20:13:57+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=101
+link: http://astrophoenix.com/?p=101
 slug: 101
 title: Washed
 wordpress_id: 101
@@ -15,7 +15,7 @@ tags:
 
 Right after a wash and wax
 
-[![front 3/4 view of RX-8](/blog/wp-uploads/astrophoenix/2010/12/IMG_3368_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_3368_compressed.jpg)
-[![rear 3/4 view of RX-9](/blog/wp-uploads/astrophoenix/2010/12/IMG_3369_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_3369_compressed.jpg)
-[![front view of RX-8](/blog/wp-uploads/astrophoenix/2010/12/IMG_3370_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_3370_compressed.jpg)
-[![front left 3/4 view of RX-8](/blog/wp-uploads/astrophoenix/2010/12/IMG_3371_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_3371_compressed.jpg)
+[![front 3/4 view of RX-8](/wp-uploads/astrophoenix/2010/12/IMG_3368_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_3368_compressed.jpg)
+[![rear 3/4 view of RX-9](/wp-uploads/astrophoenix/2010/12/IMG_3369_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_3369_compressed.jpg)
+[![front view of RX-8](/wp-uploads/astrophoenix/2010/12/IMG_3370_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_3370_compressed.jpg)
+[![front left 3/4 view of RX-8](/wp-uploads/astrophoenix/2010/12/IMG_3371_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_3371_compressed.jpg)

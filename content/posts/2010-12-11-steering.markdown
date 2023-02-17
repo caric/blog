@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2010-12-11 01:51:01+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=171
+link: http://astrophoenix.com/?p=171
 slug: 171
 title: Steering
 wordpress_id: 171

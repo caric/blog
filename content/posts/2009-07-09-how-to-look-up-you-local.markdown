@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2009-07-09 03:18:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=17073
+link: http://astrophoenix.com/?p=17073
 slug: 17073
 title: how to look up you local machine’s external IP address (not 127.0.0.1)
 wordpress_id: 17073

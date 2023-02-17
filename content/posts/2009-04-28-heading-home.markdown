@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2009-04-28 02:24:40+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19274
+link: http://astrophoenix.com/?p=19274
 slug: 19274
 title: Heading Home
 wordpress_id: 19274
@@ -15,7 +15,7 @@ tags:
 - ride
 ---
 
-[![](/blog/wp-uploads/astrophoenix/2010/12/olney_front_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/olney_front_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/olney_front_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/olney_front_compressed.jpg)
 
 Headed home today, back through Globe to AJ.
 

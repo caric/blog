@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2014-08-29 21:49:51+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19416
+link: http://astrophoenix.com/?p=19416
 slug: 19416
 title: Background App refresh
 wordpress_id: 19416

@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2007-10-01 01:29:38+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=148
+link: http://astrophoenix.com/?p=148
 slug: 148
 title: Gas cap
 wordpress_id: 148

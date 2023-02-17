@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2007-12-07 02:34:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=14299
+link: http://astrophoenix.com/?p=14299
 slug: 14299
 title: replacing aging hardware
 wordpress_id: 14299

@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-07-22 22:12:56+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19195
+link: http://astrophoenix.com/?p=19195
 slug: 19195
 title: Commute
 wordpress_id: 19195

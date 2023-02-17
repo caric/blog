@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2009-02-06 06:04:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=16355
+link: http://astrophoenix.com/?p=16355
 slug: 16355
 title: 'gnome rss reader: liferea'
 wordpress_id: 16355

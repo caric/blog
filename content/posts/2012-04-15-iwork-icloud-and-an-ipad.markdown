@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2012-04-15 00:29:17+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19370
+link: http://astrophoenix.com/?p=19370
 slug: 19370
 title: iWork, iCloud, And an iPad
 wordpress_id: 19370

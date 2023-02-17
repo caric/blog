@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2011-01-28 05:11:16+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19351
+link: http://astrophoenix.com/?p=19351
 slug: 19351
 title: Flickstacker
 wordpress_id: 19351

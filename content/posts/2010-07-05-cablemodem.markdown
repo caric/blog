@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2010-07-05 16:39:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=18931
+link: http://astrophoenix.com/?p=18931
 slug: 18931
 title: cablemodem
 wordpress_id: 18931

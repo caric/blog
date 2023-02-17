@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-05-23 22:10:25+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19089
+link: http://astrophoenix.com/?p=19089
 slug: 19089
 title: Rain, Rain, Go Away!
 wordpress_id: 19089

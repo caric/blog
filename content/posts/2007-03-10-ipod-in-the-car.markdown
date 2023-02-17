@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2007-03-10 02:23:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=11852
+link: http://astrophoenix.com/?p=11852
 slug: 11852
 title: ipod in the car!
 wordpress_id: 11852

@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2002-08-24 03:03:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=2681
+link: http://astrophoenix.com/?p=2681
 slug: 2681
 title: crypto
 wordpress_id: 2681

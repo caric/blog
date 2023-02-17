@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2006-10-27 04:22:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=11332
+link: http://astrophoenix.com/?p=11332
 slug: 11332
 title: edgy
 wordpress_id: 11332

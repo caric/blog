@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2007-04-22 21:54:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=12332
+link: http://astrophoenix.com/?p=12332
 slug: 12332
 title: debian booted
 wordpress_id: 12332

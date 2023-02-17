@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2003-05-16 19:03:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=4507
+link: http://astrophoenix.com/?p=4507
 slug: 4507
 title: zsh is good
 wordpress_id: 4507

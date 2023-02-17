@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2006-09-04 22:14:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=11176
+link: http://astrophoenix.com/?p=11176
 slug: 11176
 title: power update
 wordpress_id: 11176

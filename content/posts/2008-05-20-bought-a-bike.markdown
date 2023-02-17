@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-05-20 21:57:44+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19076
+link: http://astrophoenix.com/?p=19076
 slug: 19076
 title: Bought a Bike
 wordpress_id: 19076
@@ -14,7 +14,7 @@ tags:
 - ninja
 ---
 
-[![](/blog/wp-uploads/astrophoenix/2010/12/aIMG_1104_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/aIMG_1104_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/aIMG_1104_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/aIMG_1104_compressed.jpg)
 
 Yesterday I went by the Kawasaki dealership to try to learn how long the wait would be on the Ninja 250R and how much it would cost. They wrote that all up for me, and said it would be 3 weeks or so. The offer from the dealer was MSRP, plus the typical boatload of fees. I wished I could sit on one. The dealer said the 650 was similar, since the 250 was based on the 650 [which actually isn't true, but they are at least of similar size], so I sat on that. The salesman mentioned that everyone wanted a 250 since it was known as a "beginner" bike, and as a result they had three 650s sitting there, one of every color made! The 650s were on sale to try to move them; so much so that the out the door price was below the MSRP! I left with prices for both bikes written down.
 
@@ -35,16 +35,16 @@ It's nice to have good riding gear; even at only 25 MPH, I was getting pleasant 
 Also, I was reminded that my rider training course was 6 months ago; I found myself taking all the turns rrreeealllyyy WWWWIIIIIDDDDEEEE. I'll be definitely be doing some practice around the neighborhood before venturing into real traffic.
 
 I kept thinking this bike felt really light; it's only 393 lbs dry
-[![](/blog/wp-uploads/astrophoenix/2010/12/IMG_1092_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_1092_compressed.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/IMG_1093_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_1093_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/IMG_1092_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_1092_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/IMG_1093_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_1093_compressed.jpg)
 
 You may be thinking "but wait, I thought you wanted a BMW motorcycle?" well I do, but I also decided I wanted to not stretch my budget yet also get a bike NOW so I can get some riding experience in. This bike was less than half the cost; it meets the goal of being a comfortable, cool bike to get some seat time on. And I think I won't be bored of it in a few months.
-[![](/blog/wp-uploads/astrophoenix/2010/12/IMG_1095_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_1095_compressed.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/IMG_1101_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_1101_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/IMG_1095_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_1095_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/IMG_1101_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_1101_compressed.jpg)
 
 turns out the trip home was 1.2 miles. The main odometer shows 1 now.
 
-[![](/blog/wp-uploads/astrophoenix/2010/12/IMG_1103_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_1103_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/IMG_1103_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_1103_compressed.jpg)
 
 The bike fits in the garage, with room to open both passenger doors on the RX-8! This is despite all the stuff in there I'm trying to get "the ex" to haul off for me
-[![](/blog/wp-uploads/astrophoenix/2010/12/IMG_1105_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_1105_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/IMG_1105_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_1105_compressed.jpg)

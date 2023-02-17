@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2006-10-28 01:26:15+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=144
+link: http://astrophoenix.com/?p=144
 slug: 144
 title: Leak
 wordpress_id: 144

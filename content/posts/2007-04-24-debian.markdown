@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2007-04-24 04:21:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=12766
+link: http://astrophoenix.com/?p=12766
 slug: 12766
 title: debian
 wordpress_id: 12766

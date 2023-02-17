@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-06-26 22:36:46+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19114
+link: http://astrophoenix.com/?p=19114
 slug: 19114
 title: Plate
 wordpress_id: 19114

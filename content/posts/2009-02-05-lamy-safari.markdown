@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2009-02-05 00:32:01+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19347
+link: http://astrophoenix.com/?p=19347
 slug: 19347
 title: Lamy Safari
 wordpress_id: 19347

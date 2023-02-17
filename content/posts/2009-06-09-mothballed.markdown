@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2009-06-09 02:28:07+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19278
+link: http://astrophoenix.com/?p=19278
 slug: 19278
 title: Mothballed
 wordpress_id: 19278

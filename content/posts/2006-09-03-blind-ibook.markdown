@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2006-09-03 23:16:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=10906
+link: http://astrophoenix.com/?p=10906
 slug: 10906
 title: blind ibook
 wordpress_id: 10906

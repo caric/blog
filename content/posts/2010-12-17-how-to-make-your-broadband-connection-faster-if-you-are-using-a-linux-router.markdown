@@ -5,7 +5,7 @@ date: 2010-12-17 17:42:06+00:00
 excerpt: How to work-around the problem of router-induced high latency, using a Linux
   home router.
 layout: post
-link: http://astrophoenix.com/blog/?p=12
+link: http://astrophoenix.com/?p=12
 slug: 12
 title: How to make your broadband connection faster
 wordpress_id: 12

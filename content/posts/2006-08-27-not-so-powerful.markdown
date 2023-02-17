@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2006-08-27 20:57:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=10681
+link: http://astrophoenix.com/?p=10681
 slug: 10681
 title: not so powerful
 wordpress_id: 10681

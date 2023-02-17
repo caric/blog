@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-07-06 22:50:06+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19133
+link: http://astrophoenix.com/?p=19133
 slug: 19133
 title: Room
 wordpress_id: 19133
@@ -17,4 +17,4 @@ tags:
 
 Now it's happily back in the much-roomier garage. the rest of the stuff in the garage will be going soon.
 
-[![](/blog/wp-uploads/astrophoenix/2010/12/img_1370_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/img_1370_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/img_1370_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/img_1370_compressed.jpg)

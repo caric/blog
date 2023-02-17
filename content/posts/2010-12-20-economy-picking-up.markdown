@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2010-12-20 22:49:59+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19233
+link: http://astrophoenix.com/?p=19233
 slug: 19233
 title: Economy Picking Up?
 wordpress_id: 19233

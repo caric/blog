@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2004-10-09 19:19:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=7725
+link: http://astrophoenix.com/?p=7725
 slug: 7725
 title: election? what election
 wordpress_id: 7725

@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 1999-09-24 19:25:52+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19033
+link: http://astrophoenix.com/?p=19033
 slug: 19033
 title: No Content Found
 wordpress_id: 19033
@@ -16,7 +16,7 @@ tags:
 ---
 
 We went camping in the woods near sedona (yes, in the mustang).
-[![](/blog/wp-uploads/astrophoenix/2010/12/gt990924campside-300x169.jpg)](/blog/wp-uploads/astrophoenix/2010/12/gt990924campside.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/gt990924campback-300x213.jpg)](/blog/wp-uploads/astrophoenix/2010/12/gt990924campback.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/gt990924campfront-300x198.jpg)](/blog/wp-uploads/astrophoenix/2010/12/gt990924campfront.jpg)
-[![dew on the spoiler](/blog/wp-uploads/astrophoenix/2010/12/gt990924spoilerdew-300x195.jpg)](/blog/wp-uploads/astrophoenix/2010/12/gt990924spoilerdew.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/gt990924campside-300x169.jpg)](/wp-uploads/astrophoenix/2010/12/gt990924campside.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/gt990924campback-300x213.jpg)](/wp-uploads/astrophoenix/2010/12/gt990924campback.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/gt990924campfront-300x198.jpg)](/wp-uploads/astrophoenix/2010/12/gt990924campfront.jpg)
+[![dew on the spoiler](/wp-uploads/astrophoenix/2010/12/gt990924spoilerdew-300x195.jpg)](/wp-uploads/astrophoenix/2010/12/gt990924spoilerdew.jpg)

@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2007-11-27 16:17:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=13765
+link: http://astrophoenix.com/?p=13765
 slug: 13765
 title: more re-installs?
 wordpress_id: 13765

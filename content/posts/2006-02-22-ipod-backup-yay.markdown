@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2006-02-22 19:48:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=9145
+link: http://astrophoenix.com/?p=9145
 slug: 9145
 title: ipod backup, yay
 wordpress_id: 9145

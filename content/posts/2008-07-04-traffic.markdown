@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-07-04 22:44:13+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19124
+link: http://astrophoenix.com/?p=19124
 slug: 19124
 title: Traffic
 wordpress_id: 19124

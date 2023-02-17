@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2006-04-23 01:19:37+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=139
+link: http://astrophoenix.com/?p=139
 slug: 139
 title: Spark Plugs
 wordpress_id: 139

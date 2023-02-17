@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2000-09-10 19:29:55+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19039
+link: http://astrophoenix.com/?p=19039
 slug: 19039
 title: Mustang On the Corner Scales
 wordpress_id: 19039

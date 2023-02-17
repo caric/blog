@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2010-05-04 22:30:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=17925
+link: http://astrophoenix.com/?p=17925
 slug: 17925
 title: iPhone glitch
 wordpress_id: 17925

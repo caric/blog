@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2010-12-19 16:32:26+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19159
+link: http://astrophoenix.com/?p=19159
 slug: 19159
 title: Lunar Eclipse on the Solstice!
 wordpress_id: 19159

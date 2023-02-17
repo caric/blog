@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-12-04 02:23:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=15147
+link: http://astrophoenix.com/?p=15147
 slug: 15147
 title: spotlight in Mac OS X 10.5 Leopard and “System Files”
 wordpress_id: 15147

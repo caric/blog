@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2013-08-09 00:47:46+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19403
+link: http://astrophoenix.com/?p=19403
 slug: 19403
 title: Urbanvore
 wordpress_id: 19403

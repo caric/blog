@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2010-03-25 02:32:23+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19285
+link: http://astrophoenix.com/?p=19285
 slug: 19285
 title: Wrecked
 wordpress_id: 19285

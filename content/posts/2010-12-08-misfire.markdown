@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2010-12-08 01:54:09+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=177
+link: http://astrophoenix.com/?p=177
 slug: 177
 title: Misfire?
 wordpress_id: 177

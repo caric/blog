@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2014-03-12 20:26:08+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19409
+link: http://astrophoenix.com/?p=19409
 slug: 19409
 title: iOS 7.1
 wordpress_id: 19409

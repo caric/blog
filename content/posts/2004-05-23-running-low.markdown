@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2004-05-23 18:11:16+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=26
+link: http://astrophoenix.com/?p=26
 slug: 26
 title: Running Low
 wordpress_id: 26

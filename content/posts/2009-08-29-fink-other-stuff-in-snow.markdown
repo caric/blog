@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2009-08-29 07:19:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=17607
+link: http://astrophoenix.com/?p=17607
 slug: 17607
 title: fink & other stuff in snow leopard
 wordpress_id: 17607

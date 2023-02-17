@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2007-12-04 01:31:15+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=150
+link: http://astrophoenix.com/?p=150
 slug: 150
 title: New wheels and tires
 wordpress_id: 150

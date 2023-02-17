@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2014-08-23 22:19:41+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19414
+link: http://astrophoenix.com/?p=19414
 slug: 19414
 title: Facebook bug?
 wordpress_id: 19414

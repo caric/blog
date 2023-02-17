@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2002-08-26 05:51:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=2987
+link: http://astrophoenix.com/?p=2987
 slug: 2987
 title: backspace
 wordpress_id: 2987

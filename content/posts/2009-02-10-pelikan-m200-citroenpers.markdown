@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2009-02-10 00:36:14+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19349
+link: http://astrophoenix.com/?p=19349
 slug: 19349
 title: Pelikan M200 Citroenpers
 wordpress_id: 19349

@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2006-09-13 01:24:10+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=142
+link: http://astrophoenix.com/?p=142
 slug: 142
 title: Engine Check
 wordpress_id: 142

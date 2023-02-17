@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2004-02-26 22:52:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=7413
+link: http://astrophoenix.com/?p=7413
 slug: 7413
 title: ‘stat’ wrapper in OS X
 wordpress_id: 7413

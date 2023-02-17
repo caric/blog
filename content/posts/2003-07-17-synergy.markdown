@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2003-07-17 00:57:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=5649
+link: http://astrophoenix.com/?p=5649
 slug: 5649
 title: synergy
 wordpress_id: 5649

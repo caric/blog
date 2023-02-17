@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2012-10-18 16:05:28+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19379
+link: http://astrophoenix.com/?p=19379
 slug: 19379
 title: Mountain Lion's Mail.app Cringes at MobileMe
 wordpress_id: 19379

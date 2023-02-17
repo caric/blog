@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2005-11-04 21:25:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=8355
+link: http://astrophoenix.com/?p=8355
 slug: 8355
 title: distributions
 wordpress_id: 8355

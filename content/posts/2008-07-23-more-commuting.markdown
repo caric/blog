@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-07-23 22:17:06+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19197
+link: http://astrophoenix.com/?p=19197
 slug: 19197
 title: More Commuting
 wordpress_id: 19197

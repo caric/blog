@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2003-11-12 00:11:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=6764
+link: http://astrophoenix.com/?p=6764
 slug: 6764
 title: more email restrictions
 wordpress_id: 6764

@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2003-06-22 20:22:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=5110
+link: http://astrophoenix.com/?p=5110
 slug: 5110
 title: logs
 wordpress_id: 5110

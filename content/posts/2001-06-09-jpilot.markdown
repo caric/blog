@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2001-06-09 20:18:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=1071
+link: http://astrophoenix.com/?p=1071
 slug: 1071
 title: jpilot
 wordpress_id: 1071

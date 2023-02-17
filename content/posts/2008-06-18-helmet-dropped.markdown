@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-06-18 22:24:26+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19107
+link: http://astrophoenix.com/?p=19107
 slug: 19107
 title: Helmet Dropped
 wordpress_id: 19107

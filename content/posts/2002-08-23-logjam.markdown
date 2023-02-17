@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2002-08-23 04:26:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=1942
+link: http://astrophoenix.com/?p=1942
 slug: 1942
 title: logjam
 wordpress_id: 1942

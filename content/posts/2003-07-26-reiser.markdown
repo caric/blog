@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2003-07-26 17:43:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=6094
+link: http://astrophoenix.com/?p=6094
 slug: 6094
 title: reiser
 wordpress_id: 6094

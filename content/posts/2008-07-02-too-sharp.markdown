@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-07-02 22:42:37+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19118
+link: http://astrophoenix.com/?p=19118
 slug: 19118
 title: Too Sharp
 wordpress_id: 19118
@@ -19,13 +19,13 @@ I was out on the bike by 5:45 am.
 
 I rode up to the overlook over canyon lake this morning.
 
-[![](/blog/wp-uploads/astrophoenix/2010/12/img_1315_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/img_1315_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/img_1315_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/img_1315_compressed.jpg)
 
 on the way up, I was taking those turns at about 25--30 and that of course was utterly easy, even at my 2 degree lean angles.
 
 On the way back down I increased a bit to 30--35mph, and one time I even leaned it over too far. I was taking a right hand turn and I think I was making the turn about half the radius it should have been, so that was fun. I remembered not to snap off the throttle, I was able to get it to stand back up a bit. I'm also practicing relaxing my arms
 
-[![](/blog/wp-uploads/astrophoenix/2010/12/img_1317_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/img_1317_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/img_1317_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/img_1317_compressed.jpg)
 
 once I got back to the straight part of the road, I hit 85 mph briefly.
 

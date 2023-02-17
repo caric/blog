@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2004-08-14 19:15:16+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=82
+link: http://astrophoenix.com/?p=82
 slug: 82
 title: Washed
 wordpress_id: 82
@@ -13,14 +13,14 @@ categories:
 
 Washed the car, had to take a few more pics and drive up to the lake overlook.
 
-[![](/blog/wp-uploads/astrophoenix/2010/12/IMG_0996_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_0996_compressed.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/IMG_0998_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_0998_compressed.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/IMG_0999_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_0999_compressed.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/IMG_1000_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_1000_compressed.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/IMG_1001_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_1001_compressed.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/IMG_1002_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_1002_compressed.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/IMG_1004_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_1004_compressed.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/IMG_1005_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_1005_compressed.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/IMG_1024_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_1024_compressed.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/IMG_1025_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_1025_compressed.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/IMG_1028_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_1028_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/IMG_0996_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_0996_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/IMG_0998_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_0998_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/IMG_0999_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_0999_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/IMG_1000_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_1000_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/IMG_1001_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_1001_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/IMG_1002_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_1002_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/IMG_1004_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_1004_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/IMG_1005_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_1005_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/IMG_1024_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_1024_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/IMG_1025_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_1025_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/IMG_1028_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_1028_compressed.jpg)

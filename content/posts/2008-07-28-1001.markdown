@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-07-28 22:27:12+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19208
+link: http://astrophoenix.com/?p=19208
 slug: 19208
 title: '1001'
 wordpress_id: 19208

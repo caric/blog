@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2009-04-21 22:58:08+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19247
+link: http://astrophoenix.com/?p=19247
 slug: 19247
 title: Got My Toe Down!
 wordpress_id: 19247

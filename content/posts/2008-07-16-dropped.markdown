@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-07-16 23:01:26+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19148
+link: http://astrophoenix.com/?p=19148
 slug: 19148
 title: Dropped
 wordpress_id: 19148
@@ -22,9 +22,9 @@ The street cleaners were out and cleaning the parking lot at work today; I had t
 
 On the way home I decided to go ahead and get gas. I pulled into the gas station, and held too much speed; when I turned left to pull in front of a pump, I had to turn the front wheel too far and when I stopped it fell right over on its side. I was trying to hold it up but it was too far over, so onto the pavement it went. I was still standing. the engine was still running even. so I hit the kill switch and tried to lift it but couldn't really, I didn't take the time to get situated to use my legs to do the work. Three other guys who were individually getting gas came over and helped me lift it, that was nice. so now it has a small scuff. shifter scraped the side of the engine and might be bent slightly, but I can't tell any difference while riding it.
 
-[![](/blog/wp-uploads/astrophoenix/2010/12/scuff_1366_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/scuff_1366_compressed.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/scuff_1367_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/scuff_1367_compressed.jpg)
-[![smaller than a quarter](/blog/wp-uploads/astrophoenix/2010/12/scuff_1369_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/scuff_1369_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/scuff_1366_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/scuff_1366_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/scuff_1367_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/scuff_1367_compressed.jpg)
+[![smaller than a quarter](/wp-uploads/astrophoenix/2010/12/scuff_1369_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/scuff_1369_compressed.jpg)
 
 
 

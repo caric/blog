@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-12-04 02:16:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=14984
+link: http://astrophoenix.com/?p=14984
 slug: 14984
 title: freeing up itunes songs (removing fairplay DRM)
 wordpress_id: 14984

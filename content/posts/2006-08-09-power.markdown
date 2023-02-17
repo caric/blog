@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2006-08-09 00:36:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=10068
+link: http://astrophoenix.com/?p=10068
 slug: 10068
 title: power
 wordpress_id: 10068

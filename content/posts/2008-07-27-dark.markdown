@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-07-27 22:25:22+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19206
+link: http://astrophoenix.com/?p=19206
 slug: 19206
 title: Dark
 wordpress_id: 19206

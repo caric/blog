@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-08-05 22:31:38+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19216
+link: http://astrophoenix.com/?p=19216
 slug: 19216
 title: Routine
 wordpress_id: 19216

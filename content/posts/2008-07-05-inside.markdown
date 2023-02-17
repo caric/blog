@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-07-05 22:45:57+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19126
+link: http://astrophoenix.com/?p=19126
 slug: 19126
 title: Inside
 wordpress_id: 19126
@@ -19,7 +19,7 @@ Today I mainly focused on practicing slow speed, parking lot-type maneuvers. Tha
 
 Then later I stashed the bike in my house since a crew was coming to empty out the garage.
 
-[![](/blog/wp-uploads/astrophoenix/2010/12/img_1364_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/img_1364_compressed.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/img_1366_compressed-225x300.jpg)](/blog/wp-uploads/astrophoenix/2010/12/img_1366_compressed.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/img_1367_compressed-255x300.jpg)](/blog/wp-uploads/astrophoenix/2010/12/img_1367_compressed.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/img_1369_compressed-225x300.jpg)](/blog/wp-uploads/astrophoenix/2010/12/img_1369_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/img_1364_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/img_1364_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/img_1366_compressed-225x300.jpg)](/wp-uploads/astrophoenix/2010/12/img_1366_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/img_1367_compressed-255x300.jpg)](/wp-uploads/astrophoenix/2010/12/img_1367_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/img_1369_compressed-225x300.jpg)](/wp-uploads/astrophoenix/2010/12/img_1369_compressed.jpg)

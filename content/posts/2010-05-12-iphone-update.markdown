@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2010-05-12 22:33:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=18189
+link: http://astrophoenix.com/?p=18189
 slug: 18189
 title: iPhone update
 wordpress_id: 18189

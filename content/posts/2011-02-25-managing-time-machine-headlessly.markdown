@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2011-02-25 20:01:09+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19362
+link: http://astrophoenix.com/?p=19362
 slug: 19362
 title: Managing time machine headlessly
 wordpress_id: 19362

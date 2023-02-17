@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2005-10-07 20:33:36+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=109
+link: http://astrophoenix.com/?p=109
 slug: 109
 title: New Tires
 wordpress_id: 109
@@ -29,9 +29,9 @@ The only bad part of all this is that Discount Tire, where I bought the tires an
 
 Fit on the wheel:
 
-[caption id="attachment_113" align="alignleft" width="225" caption="Stock tire: sidewall 4.0 in tall; diameter 26.0 in; circumference 81.6 in."][![too small](/blog/wp-uploads/astrophoenix/2005/10/tireIMG_0757_compressed-225x300.jpg)](/blog/wp-uploads/astrophoenix/2005/10/tireIMG_0757_compressed.jpg)[/caption]
+[caption id="attachment_113" align="alignleft" width="225" caption="Stock tire: sidewall 4.0 in tall; diameter 26.0 in; circumference 81.6 in."][![too small](/wp-uploads/astrophoenix/2005/10/tireIMG_0757_compressed-225x300.jpg)](/wp-uploads/astrophoenix/2005/10/tireIMG_0757_compressed.jpg)[/caption]
 
-[caption id="attachment_114" align="alignleft" width="225" caption="New tire: sidewall 3.9 in tall; diameter 25.7 in; circumference is 80.8 in."][![just right](/blog/wp-uploads/astrophoenix/2005/10/IMG_5240_compressed-225x300.jpg)](/blog/wp-uploads/astrophoenix/2005/10/IMG_5240_compressed.jpg)[/caption]
+[caption id="attachment_114" align="alignleft" width="225" caption="New tire: sidewall 3.9 in tall; diameter 25.7 in; circumference is 80.8 in."][![just right](/wp-uploads/astrophoenix/2005/10/IMG_5240_compressed-225x300.jpg)](/wp-uploads/astrophoenix/2005/10/IMG_5240_compressed.jpg)[/caption]
 
 
 
@@ -53,24 +53,24 @@ Fit on the wheel:
 
 The small difference in size adds up to about a 1% difference to the speedometer. If the speedometer was dead accurate before, now it would be off by about .6mph at 60 mph (if the speedo said 60, I would actually be going 59.4 mph. I had already noticed an error of between 2 and 2.5 mph around 75 mph, so now it will be a little bit more. I'll have to check it with my gps.
 
-[caption id="attachment_127" align="alignleft" width="210" caption="old"][![old](/blog/wp-uploads/astrophoenix/2005/10/IMG_5220_sidebyside-300x225.jpg)](/blog/wp-uploads/astrophoenix/2005/10/IMG_5220_sidebyside.jpg)[/caption]
+[caption id="attachment_127" align="alignleft" width="210" caption="old"][![old](/wp-uploads/astrophoenix/2005/10/IMG_5220_sidebyside-300x225.jpg)](/wp-uploads/astrophoenix/2005/10/IMG_5220_sidebyside.jpg)[/caption]
 
-[caption id="attachment_128" align="alignleft" width="210" caption="new"][![new](/blog/wp-uploads/astrophoenix/2005/10/IMG_5233_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2005/10/IMG_5233_compressed.jpg)[/caption]
+[caption id="attachment_128" align="alignleft" width="210" caption="new"][![new](/wp-uploads/astrophoenix/2005/10/IMG_5233_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2005/10/IMG_5233_compressed.jpg)[/caption]
 
-[caption id="attachment_129" align="alignleft" width="300" caption="old tread close up"][![old](/blog/wp-uploads/astrophoenix/2005/10/IMG_5224_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2005/10/IMG_5224_compressed.jpg)[/caption]
+[caption id="attachment_129" align="alignleft" width="300" caption="old tread close up"][![old](/wp-uploads/astrophoenix/2005/10/IMG_5224_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2005/10/IMG_5224_compressed.jpg)[/caption]
 
-[caption id="attachment_130" align="alignleft" width="225" caption="new tread close up"][![new tread, close up](/blog/wp-uploads/astrophoenix/2005/10/IMG_5235_compressed-225x300.jpg)](/blog/wp-uploads/astrophoenix/2005/10/IMG_5235_compressed.jpg)[/caption]
+[caption id="attachment_130" align="alignleft" width="225" caption="new tread close up"][![new tread, close up](/wp-uploads/astrophoenix/2005/10/IMG_5235_compressed-225x300.jpg)](/wp-uploads/astrophoenix/2005/10/IMG_5235_compressed.jpg)[/caption]
 
-[caption id="attachment_131" align="alignleft" width="210" caption="old tire, labelled with the tire size"][![P225/45ZR18](/blog/wp-uploads/astrophoenix/2005/10/IMG_5223_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2005/10/IMG_5223_compressed.jpg)[/caption]
+[caption id="attachment_131" align="alignleft" width="210" caption="old tire, labelled with the tire size"][![P225/45ZR18](/wp-uploads/astrophoenix/2005/10/IMG_5223_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2005/10/IMG_5223_compressed.jpg)[/caption]
 
-[caption id="attachment_132" align="alignleft" width="210" caption="new tire, labelled with the tire size"][![245/40ZR18](/blog/wp-uploads/astrophoenix/2005/10/IMG_5236_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2005/10/IMG_5236_compressed.jpg)[/caption]
+[caption id="attachment_132" align="alignleft" width="210" caption="new tire, labelled with the tire size"][![245/40ZR18](/wp-uploads/astrophoenix/2005/10/IMG_5236_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2005/10/IMG_5236_compressed.jpg)[/caption]
 
-[caption id="attachment_133" align="alignleft" width="210" caption="old tire"][![old tire, sidewall at the bottom](/blog/wp-uploads/astrophoenix/2005/10/IMG_5222_compressed-300x159.jpg)](/blog/wp-uploads/astrophoenix/2005/10/IMG_5222_compressed.jpg)[/caption]
+[caption id="attachment_133" align="alignleft" width="210" caption="old tire"][![old tire, sidewall at the bottom](/wp-uploads/astrophoenix/2005/10/IMG_5222_compressed-300x159.jpg)](/wp-uploads/astrophoenix/2005/10/IMG_5222_compressed.jpg)[/caption]
 
-[caption id="attachment_134" align="alignleft" width="210" caption="new tire"][![new tire](/blog/wp-uploads/astrophoenix/2005/10/IMG_5237_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2005/10/IMG_5237_compressed.jpg)[/caption]
-
-
+[caption id="attachment_134" align="alignleft" width="210" caption="new tire"][![new tire](/wp-uploads/astrophoenix/2005/10/IMG_5237_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2005/10/IMG_5237_compressed.jpg)[/caption]
 
 
 
-[caption id="attachment_135" align="alignleft" width="300" caption="new tires"][![new tires](/blog/wp-uploads/astrophoenix/2005/10/IMG_5241_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2005/10/IMG_5241_compressed.jpg)[/caption]
+
+
+[caption id="attachment_135" align="alignleft" width="300" caption="new tires"][![new tires](/wp-uploads/astrophoenix/2005/10/IMG_5241_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2005/10/IMG_5241_compressed.jpg)[/caption]

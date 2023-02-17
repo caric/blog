@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2007-11-30 05:00:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=13943
+link: http://astrophoenix.com/?p=13943
 slug: 13943
 title: network fun
 wordpress_id: 13943

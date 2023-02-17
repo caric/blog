@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-12-23 23:21:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=15502
+link: http://astrophoenix.com/?p=15502
 slug: 15502
 title: controlling iTunes via iPhone
 wordpress_id: 15502

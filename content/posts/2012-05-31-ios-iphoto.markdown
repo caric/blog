@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2012-05-31 21:45:01+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19375
+link: http://astrophoenix.com/?p=19375
 slug: 19375
 title: iOS iPhoto
 wordpress_id: 19375

@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2003-11-11 22:32:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=6627
+link: http://astrophoenix.com/?p=6627
 slug: 6627
 title: New ISP
 wordpress_id: 6627

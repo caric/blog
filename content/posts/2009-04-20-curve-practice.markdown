@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2009-04-20 22:56:56+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19245
+link: http://astrophoenix.com/?p=19245
 slug: 19245
 title: Curve Practice
 wordpress_id: 19245

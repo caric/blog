@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2003-04-09 22:31:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=4068
+link: http://astrophoenix.com/?p=4068
 slug: 4068
 title: travelling laptops
 wordpress_id: 4068

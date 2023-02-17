@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2010-11-26 23:05:45+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19310
+link: http://astrophoenix.com/?p=19310
 slug: 19310
 title: Won't Start
 wordpress_id: 19310

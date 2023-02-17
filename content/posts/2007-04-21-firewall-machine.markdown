@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2007-04-21 17:10:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=12226
+link: http://astrophoenix.com/?p=12226
 slug: 12226
 title: firewall machine
 wordpress_id: 12226

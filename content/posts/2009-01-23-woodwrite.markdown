@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2009-01-23 00:19:13+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19341
+link: http://astrophoenix.com/?p=19341
 slug: 19341
 title: WoodWrite
 wordpress_id: 19341

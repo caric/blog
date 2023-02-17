@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2003-07-17 00:50:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=5489
+link: http://astrophoenix.com/?p=5489
 slug: 5489
 title: file systems
 wordpress_id: 5489

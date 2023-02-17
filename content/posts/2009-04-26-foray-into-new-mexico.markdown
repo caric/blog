@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2009-04-26 02:03:52+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19257
+link: http://astrophoenix.com/?p=19257
 slug: 19257
 title: Foray Into New Mexico
 wordpress_id: 19257
@@ -17,9 +17,9 @@ tags:
 
 Got going about 10am, got gas, rode to Springerville via highway 180 in New Mexico.
 
-[![](/blog/wp-uploads/astrophoenix/2010/12/new_mexico_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/new_mexico_compressed.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/lean_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/lean_compressed.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/pines_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/pines_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/new_mexico_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/new_mexico_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/lean_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/lean_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/pines_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/pines_compressed.jpg)
 
 Some high elevation on the way, up to 7000 feet, so we saw lots of pine trees.
 

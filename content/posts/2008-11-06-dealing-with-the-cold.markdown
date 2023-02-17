@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-11-06 22:50:42+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19235
+link: http://astrophoenix.com/?p=19235
 slug: 19235
 title: Dealing With the Cold
 wordpress_id: 19235

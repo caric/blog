@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2006-07-19 14:58:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=9502
+link: http://astrophoenix.com/?p=9502
 slug: 9502
 title: linux distros
 wordpress_id: 9502

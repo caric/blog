@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2002-10-12 15:22:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=3335
+link: http://astrophoenix.com/?p=3335
 slug: 3335
 title: new stuff
 wordpress_id: 3335

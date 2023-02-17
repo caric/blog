@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2005-04-17 20:17:50+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=107
+link: http://astrophoenix.com/?p=107
 slug: 107
 title: Oil Change
 wordpress_id: 107

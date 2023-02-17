@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2006-02-24 00:22:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=9440
+link: http://astrophoenix.com/?p=9440
 slug: 9440
 title: ipod stats
 wordpress_id: 9440

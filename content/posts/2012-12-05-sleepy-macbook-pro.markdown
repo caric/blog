@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2012-12-05 02:52:45+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19393
+link: http://astrophoenix.com/?p=19393
 slug: 19393
 title: Sleepy macbook pro
 wordpress_id: 19393

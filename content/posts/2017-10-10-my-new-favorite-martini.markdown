@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2017-10-10 21:09:31+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19508
+link: http://astrophoenix.com/?p=19508
 slug: 19508
 title: 'My New Favorite Martini'
 wordpress_id: 19508

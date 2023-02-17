@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2010-04-06 04:55:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=17814
+link: http://astrophoenix.com/?p=17814
 slug: 17814
 title: iPad
 wordpress_id: 17814

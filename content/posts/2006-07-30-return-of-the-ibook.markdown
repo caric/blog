@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2006-07-30 21:52:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=9947
+link: http://astrophoenix.com/?p=9947
 slug: 9947
 title: return of the ibook
 wordpress_id: 9947

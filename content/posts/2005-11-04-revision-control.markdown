@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2005-11-04 21:25:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=8027
+link: http://astrophoenix.com/?p=8027
 slug: 8027
 title: revision control
 wordpress_id: 8027

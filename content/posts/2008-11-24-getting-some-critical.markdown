@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-11-24 20:50:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=14487
+link: http://astrophoenix.com/?p=14487
 slug: 14487
 title: getting some critical apps on leopard, using fink
 wordpress_id: 14487

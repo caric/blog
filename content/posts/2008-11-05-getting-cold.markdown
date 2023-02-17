@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-11-05 22:46:33+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19230
+link: http://astrophoenix.com/?p=19230
 slug: 19230
 title: Getting Cold!
 wordpress_id: 19230
@@ -23,7 +23,7 @@ It seemed colder out today.
 
 I had fun riding up through the curves, got to a nice pull-out.
 
-[![](/blog/wp-uploads/astrophoenix/2010/12/IMG_0216_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_0216_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/IMG_0216_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_0216_compressed.jpg)
 
 Then turned around and headed back. I ended up adding 20 miles to my morning commute, so this morning was a 50 mile ride instead of only 30.
 

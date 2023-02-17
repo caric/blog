@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2003-05-17 01:47:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=4779
+link: http://astrophoenix.com/?p=4779
 slug: 4779
 title: Army & Gentoo
 wordpress_id: 4779

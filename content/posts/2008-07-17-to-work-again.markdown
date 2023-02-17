@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-07-17 23:06:45+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19154
+link: http://astrophoenix.com/?p=19154
 slug: 19154
 title: To Work Again
 wordpress_id: 19154

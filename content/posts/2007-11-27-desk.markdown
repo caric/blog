@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2007-11-27 03:27:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=13544
+link: http://astrophoenix.com/?p=13544
 slug: 13544
 title: desk
 wordpress_id: 13544

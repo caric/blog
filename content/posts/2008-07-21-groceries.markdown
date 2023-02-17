@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-07-21 22:03:09+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19193
+link: http://astrophoenix.com/?p=19193
 slug: 19193
 title: Groceries
 wordpress_id: 19193

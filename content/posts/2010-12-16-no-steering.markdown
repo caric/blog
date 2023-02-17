@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2010-12-16 01:52:49+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=175
+link: http://astrophoenix.com/?p=175
 slug: 175
 title: No Steering
 wordpress_id: 175

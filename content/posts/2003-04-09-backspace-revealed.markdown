@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2003-04-09 22:25:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=3634
+link: http://astrophoenix.com/?p=3634
 slug: 3634
 title: backspace revealed
 wordpress_id: 3634

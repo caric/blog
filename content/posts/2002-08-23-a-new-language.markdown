@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2002-08-23 05:16:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=2411
+link: http://astrophoenix.com/?p=2411
 slug: 2411
 title: a new language
 wordpress_id: 2411

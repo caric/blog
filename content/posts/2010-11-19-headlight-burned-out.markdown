@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2010-11-19 19:43:51+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19297
+link: http://astrophoenix.com/?p=19297
 slug: 19297
 title: Headlight Burned Out?
 wordpress_id: 19297
@@ -21,17 +21,17 @@ Without stopping to think, I ordered [new headlight bulbs](http://www.therpmstor
 
 Once they arrived, I removed the driver's side wheelwell and reached in to change the bulb.
 
-[caption id="attachment_19298" align="alignnone" width="224" caption="reaching in through the wheelwell"][![](/blog/wp-uploads/astrophoenix/2010/12/IMG_0580-224x300.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_0580.jpg)[/caption]
+[caption id="attachment_19298" align="alignnone" width="224" caption="reaching in through the wheelwell"][![](/wp-uploads/astrophoenix/2010/12/IMG_0580-224x300.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_0580.jpg)[/caption]
 
-[caption id="attachment_19299" align="alignnone" width="224" caption="I disconnected the battery before starting this."][![](/blog/wp-uploads/astrophoenix/2010/12/IMG_0584-224x300.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_0584.jpg)[/caption]
+[caption id="attachment_19299" align="alignnone" width="224" caption="I disconnected the battery before starting this."][![](/wp-uploads/astrophoenix/2010/12/IMG_0584-224x300.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_0584.jpg)[/caption]
 
-[caption id="attachment_19300" align="alignnone" width="224" caption="Behind the warning panel: The plug with the NASA-looking cable is connected to the now-infamous ballast"][![](/blog/wp-uploads/astrophoenix/2010/12/IMG_0583-224x300.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_0583.jpg)[/caption]
+[caption id="attachment_19300" align="alignnone" width="224" caption="Behind the warning panel: The plug with the NASA-looking cable is connected to the now-infamous ballast"][![](/wp-uploads/astrophoenix/2010/12/IMG_0583-224x300.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_0583.jpg)[/caption]
 
-[caption id="attachment_19301" align="alignnone" width="224" caption="Ballast unplugged, you can see the back of the HID bulb"][![](/blog/wp-uploads/astrophoenix/2010/12/IMG_0587-224x300.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_0587.jpg)[/caption]
+[caption id="attachment_19301" align="alignnone" width="224" caption="Ballast unplugged, you can see the back of the HID bulb"][![](/wp-uploads/astrophoenix/2010/12/IMG_0587-224x300.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_0587.jpg)[/caption]
 
-[caption id="attachment_19302" align="alignnone" width="224" caption="Uh ... this bulb doesn't really look burned out"][![](/blog/wp-uploads/astrophoenix/2010/12/IMG_0589-224x300.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_0589.jpg)[/caption]
+[caption id="attachment_19302" align="alignnone" width="224" caption="Uh ... this bulb doesn't really look burned out"][![](/wp-uploads/astrophoenix/2010/12/IMG_0589-224x300.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_0589.jpg)[/caption]
 
-[caption id="attachment_19303" align="alignnone" width="224" caption="Bulb removed"][![](/blog/wp-uploads/astrophoenix/2010/12/IMG_0590-224x300.jpg)](/blog/wp-uploads/astrophoenix/2010/12/IMG_0590.jpg)[/caption]
+[caption id="attachment_19303" align="alignnone" width="224" caption="Bulb removed"][![](/wp-uploads/astrophoenix/2010/12/IMG_0590-224x300.jpg)](/wp-uploads/astrophoenix/2010/12/IMG_0590.jpg)[/caption]
 
 After putting in the new bulb, the headlight still didn't work!
 

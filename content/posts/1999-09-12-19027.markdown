@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 1999-09-12 19:21:59+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19027
+link: http://astrophoenix.com/?p=19027
 slug: 19027
 title: No Content Found
 wordpress_id: 19027
@@ -15,6 +15,6 @@ tags:
 ---
 
 The big sand dunes west of Yuma in eastern California
-[![](/blog/wp-uploads/astrophoenix/2010/12/gt990912dunes01-300x192.jpg)](/blog/wp-uploads/astrophoenix/2010/12/gt990912dunes01.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/gt990912dunes02-300x163.jpg)](/blog/wp-uploads/astrophoenix/2010/12/gt990912dunes02.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/gt990912dunes03-300x232.jpg)](/blog/wp-uploads/astrophoenix/2010/12/gt990912dunes03.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/gt990912dunes01-300x192.jpg)](/wp-uploads/astrophoenix/2010/12/gt990912dunes01.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/gt990912dunes02-300x163.jpg)](/wp-uploads/astrophoenix/2010/12/gt990912dunes02.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/gt990912dunes03-300x232.jpg)](/wp-uploads/astrophoenix/2010/12/gt990912dunes03.jpg)

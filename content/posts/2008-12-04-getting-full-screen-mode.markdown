@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-12-04 02:05:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=14845
+link: http://astrophoenix.com/?p=14845
 slug: 14845
 title: getting full screen mode to work on external monitor in Mac OS X 10.5 Leopard
 wordpress_id: 14845

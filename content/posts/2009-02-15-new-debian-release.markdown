@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2009-02-15 15:17:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=16815
+link: http://astrophoenix.com/?p=16815
 slug: 16815
 title: new Debian release!
 wordpress_id: 16815

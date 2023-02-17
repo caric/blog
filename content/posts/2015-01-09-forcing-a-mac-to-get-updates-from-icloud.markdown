@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2015-01-09 02:50:48+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19419
+link: http://astrophoenix.com/?p=19419
 slug: 19419
 title: Forcing a Mac to get updates from iCloud
 wordpress_id: 19419

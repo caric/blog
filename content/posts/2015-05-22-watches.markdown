@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2015-05-22 06:52:38+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19455
+link: http://astrophoenix.com/?p=19455
 slug: 19455
 title: Watches
 wordpress_id: 19455
@@ -31,7 +31,7 @@ Joy got me an excellent timepiece: the Tag Heuer Aquaracer Automatic Black Dial 
 
 Here are my two automatics:
 
-[![](/blog/wp-uploads/astrophoenix/2015/05/IMG_0375.jpg)](/blog/wp-uploads/astrophoenix/2015/05/IMG_0375.jpg)
+[![](/wp-uploads/astrophoenix/2015/05/IMG_0375.jpg)](/wp-uploads/astrophoenix/2015/05/IMG_0375.jpg)
 
 
 

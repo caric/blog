@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-06-11 22:12:44+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19093
+link: http://astrophoenix.com/?p=19093
 slug: 19093
 title: Back in the Saddle
 wordpress_id: 19093

@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2009-01-22 22:27:39+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19345
+link: http://astrophoenix.com/?p=19345
 slug: 19345
 title: Parker Vector
 wordpress_id: 19345

@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2003-08-31 04:54:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=6395
+link: http://astrophoenix.com/?p=6395
 slug: 6395
 title: the woes of running your own mail server
 wordpress_id: 6395

@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2004-05-04 18:09:12+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=24
+link: http://astrophoenix.com/?p=24
 slug: 24
 title: Wiring
 wordpress_id: 24

@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2012-10-31 05:01:51+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19381
+link: http://astrophoenix.com/?p=19381
 slug: 19381
 title: Using Omnifocus
 wordpress_id: 19381
@@ -87,4 +87,4 @@ To create the LifeToday and WorkToday Perspectives, I followed the same process,
 
 The “WorkCompleted” Perspective sets focus on the Work folder, switches to the Context View Mode, and for the Views, has Grouping set to Completed, Sorting set to Completed, Availability Filter set to Completed, Status Filter set to Any Status, and Estimated Time Filter set to Any Duration.
 
-There are many other creative things people do with Projects, Contexts, and Perspectives. Google will find you many links, but [here is one I particularly liked](http://shawnblanc.net/2010/10/omnifocus/). [This one is good, too](http://clickontyler.com/blog/2010/10/how-i-use-omnifocus-to-organize-my-life/).
+There are many other creative things people do with Projects, Contexts, and Perspectives. Google will find you many links, but [here is one I particularly liked](http://shawnblanc.net/2010/10/omnifocus/). [This one is good, too](http://clickontyler.com/2010/10/how-i-use-omnifocus-to-organize-my-life/).

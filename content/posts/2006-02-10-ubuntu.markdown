@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2006-02-10 06:25:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=8904
+link: http://astrophoenix.com/?p=8904
 slug: 8904
 title: ubuntu
 wordpress_id: 8904

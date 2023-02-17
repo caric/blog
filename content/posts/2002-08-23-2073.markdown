@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2002-08-23 05:01:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=2073
+link: http://astrophoenix.com/?p=2073
 slug: 2073
 title: No Content Found
 wordpress_id: 2073

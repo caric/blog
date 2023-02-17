@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-09-01 22:33:05+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19218
+link: http://astrophoenix.com/?p=19218
 slug: 19218
 title: Labor Day Ride
 wordpress_id: 19218
@@ -23,7 +23,7 @@ During the main part of the trip, I averaged 64.4 mpg!
 
 This is by far the longest I've ridden in one day. By the end, I needed to stop every 30 or 40 miles to rest.
 
-[caption id="attachment_19219" align="alignleft" width="300" caption="Kristy and me"][![](/blog/wp-uploads/astrophoenix/2010/12/img_0755_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/img_0755_compressed.jpg)[/caption]
-[![](/blog/wp-uploads/astrophoenix/2010/12/img_0760_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/img_0760_compressed.jpg)
-[caption id="attachment_19221" align="alignleft" width="300" caption="Kristy with the bikes"][![](/blog/wp-uploads/astrophoenix/2010/12/kev_1448_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/kev_1448_compressed.jpg)[/caption]
-[caption id="attachment_19222" align="alignleft" width="300" caption="Kristy and Brian with the bikes"][![](/blog/wp-uploads/astrophoenix/2010/12/kev_1455_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/kev_1455_compressed.jpg)[/caption]
+[caption id="attachment_19219" align="alignleft" width="300" caption="Kristy and me"][![](/wp-uploads/astrophoenix/2010/12/img_0755_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/img_0755_compressed.jpg)[/caption]
+[![](/wp-uploads/astrophoenix/2010/12/img_0760_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/img_0760_compressed.jpg)
+[caption id="attachment_19221" align="alignleft" width="300" caption="Kristy with the bikes"][![](/wp-uploads/astrophoenix/2010/12/kev_1448_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/kev_1448_compressed.jpg)[/caption]
+[caption id="attachment_19222" align="alignleft" width="300" caption="Kristy and Brian with the bikes"][![](/wp-uploads/astrophoenix/2010/12/kev_1455_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/kev_1455_compressed.jpg)[/caption]

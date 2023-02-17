@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-07-10 22:57:49+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19143
+link: http://astrophoenix.com/?p=19143
 slug: 19143
 title: Wet
 wordpress_id: 19143
@@ -16,5 +16,5 @@ tags:
 
 lots of rain today, took a picture in the garage.
 
-[![](/blog/wp-uploads/astrophoenix/2010/12/img_1386_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/img_1386_compressed.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/img_1389_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/img_1389_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/img_1386_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/img_1386_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/img_1389_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/img_1389_compressed.jpg)

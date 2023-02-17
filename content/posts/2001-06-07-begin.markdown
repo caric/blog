@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2001-06-07 18:29:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=486
+link: http://astrophoenix.com/?p=486
 slug: 486
 title: begin
 wordpress_id: 486

@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2009-02-07 04:53:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=16595
+link: http://astrophoenix.com/?p=16595
 slug: 16595
 title: gnome programs and gnome so far
 wordpress_id: 16595

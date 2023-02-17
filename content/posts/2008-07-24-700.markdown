@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-07-24 22:21:39+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19200
+link: http://astrophoenix.com/?p=19200
 slug: 19200
 title: '700'
 wordpress_id: 19200

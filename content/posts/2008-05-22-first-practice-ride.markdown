@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-05-22 22:07:31+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19086
+link: http://astrophoenix.com/?p=19086
 slug: 19086
 title: First Practice Ride
 wordpress_id: 19086

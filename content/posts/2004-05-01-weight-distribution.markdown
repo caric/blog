@@ -4,7 +4,7 @@ comments: true
 date: 2004-05-01 18:03:59+00:00
 excerpt: RX-8 on the corner scales
 layout: post
-link: http://astrophoenix.com/blog/?p=21
+link: http://astrophoenix.com/?p=21
 slug: 21
 title: Weight Distribution
 wordpress_id: 21

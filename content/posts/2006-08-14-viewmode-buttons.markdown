@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2006-08-14 03:47:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=10433
+link: http://astrophoenix.com/?p=10433
 slug: 10433
 title: viewmode buttons
 wordpress_id: 10433

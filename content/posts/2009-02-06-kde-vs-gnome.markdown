@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2009-02-06 04:17:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=16097
+link: http://astrophoenix.com/?p=16097
 slug: 16097
 title: kde vs. gnome
 wordpress_id: 16097

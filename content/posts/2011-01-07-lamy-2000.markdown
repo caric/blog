@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2011-01-07 23:24:27+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19336
+link: http://astrophoenix.com/?p=19336
 slug: 19336
 title: Lamy 2000
 wordpress_id: 19336

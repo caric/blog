@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2001-06-09 23:31:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=1334
+link: http://astrophoenix.com/?p=1334
 slug: 1334
 title: gnumeric
 wordpress_id: 1334

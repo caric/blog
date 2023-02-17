@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2006-04-30 21:08:32+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19177
+link: http://astrophoenix.com/?p=19177
 slug: 19177
 title: Jupiter
 wordpress_id: 19177
@@ -16,8 +16,8 @@ tags:
 
 Jupiter in the backyard. These 2 shots were taken with the new 8mm eyepiece (56x magnification). This pic was taken with the ISO set to auto and no exposure compensation. managed to pick up some of Jupiter's bands.
 
-[![Jupiter's bands](/blog/wp-uploads/astrophoenix/2010/12/060430_img0816_jupiter_stripe_8mm-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/060430_img0816_jupiter_stripe_8mm.jpg)
+[![Jupiter's bands](/wp-uploads/astrophoenix/2010/12/060430_img0816_jupiter_stripe_8mm-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/060430_img0816_jupiter_stripe_8mm.jpg)
 
 adjusted the ISO to 400, and got the moons, but too bright to see the bands.
 
-[![Jupiter and the Gallilean moons](/blog/wp-uploads/astrophoenix/2010/12/060430_img0843_jupiter_moons_8mm-300x218.jpg)](/blog/wp-uploads/astrophoenix/2010/12/060430_img0843_jupiter_moons_8mm.jpg)
+[![Jupiter and the Gallilean moons](/wp-uploads/astrophoenix/2010/12/060430_img0843_jupiter_moons_8mm-300x218.jpg)](/wp-uploads/astrophoenix/2010/12/060430_img0843_jupiter_moons_8mm.jpg)

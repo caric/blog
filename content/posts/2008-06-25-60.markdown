@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2008-06-25 22:29:58+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19109
+link: http://astrophoenix.com/?p=19109
 slug: 19109
 title: '60'
 wordpress_id: 19109
@@ -19,5 +19,5 @@ got back on highway 88 and was relaxed this time. got up to 60mph. rode as far a
 
 too bad the camera decided to focus on the parking lot instead of on me
 
-[![](/blog/wp-uploads/astrophoenix/2010/12/img_1241_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/img_1241_compressed.jpg)
-[![](/blog/wp-uploads/astrophoenix/2010/12/img_1247_compressed-300x225.jpg)](/blog/wp-uploads/astrophoenix/2010/12/img_1247_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/img_1241_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/img_1241_compressed.jpg)
+[![](/wp-uploads/astrophoenix/2010/12/img_1247_compressed-300x225.jpg)](/wp-uploads/astrophoenix/2010/12/img_1247_compressed.jpg)

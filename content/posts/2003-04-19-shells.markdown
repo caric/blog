@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2003-04-19 05:51:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=4210
+link: http://astrophoenix.com/?p=4210
 slug: 4210
 title: shells
 wordpress_id: 4210

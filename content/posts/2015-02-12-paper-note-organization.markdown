@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2015-02-12 06:48:17+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=19424
+link: http://astrophoenix.com/?p=19424
 slug: 19424
 title: Paper Note Organization
 wordpress_id: 19424

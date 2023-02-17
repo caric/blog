@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2009-05-07 01:49:38+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=169
+link: http://astrophoenix.com/?p=169
 slug: 169
 title: New tires, replacement wheel
 wordpress_id: 169

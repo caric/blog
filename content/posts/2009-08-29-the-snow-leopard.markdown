@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2009-08-29 06:58:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=17397
+link: http://astrophoenix.com/?p=17397
 slug: 17397
 title: The Snow Leopard!
 wordpress_id: 17397

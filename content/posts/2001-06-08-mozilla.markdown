@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2001-06-08 22:52:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=909
+link: http://astrophoenix.com/?p=909
 slug: 909
 title: mozilla
 wordpress_id: 909

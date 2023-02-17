@@ -3,7 +3,7 @@ author: astrophoenix
 comments: true
 date: 2007-11-12 01:07:00+00:00
 layout: post
-link: http://astrophoenix.com/blog/?p=13306
+link: http://astrophoenix.com/?p=13306
 slug: 13306
 title: gutsy mobile
 wordpress_id: 13306
